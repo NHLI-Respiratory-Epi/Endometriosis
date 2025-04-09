@@ -8,18 +8,18 @@ CPRD: Clinical Practice Research Datalink </br>
 HES: Hospital Episode Statistics </br>
 HES APC: Hospital Episode Statistics Admitted Patient Care </br>
 ## Definitions used to calculate incidence
-**Broad**
-First record of N80 in either the first or second place of admission in HES APC (i.e. the cause of admission was endometriosis)
-**Confirmed endometriosis**
-First record of endometriosis entered in HES APC record, within 90 days of laparoscopy.
-## Definitions used to calculate prevalence
-**HES**
-Entry of N80 present in HES APC (irrespective of location in record)
-**CPRD**
-Entry of SNOMED CT code indicative of endometriosis present in primary care record
-**CPRD or HES**
-A combination of the above
-**Confirmed endometriosis**
-Entry of N80 in HES APC, within 90 days of laparoscopy
+**Broad**</br>
+First record of N80 in either the first or second place of admission in HES APC (i.e. the cause of admission was endometriosis)</br>
+**Confirmed endometriosis**</br>
+First record of endometriosis entered in HES APC record, within 90 days of laparoscopy.</br>
+## Definitions used to calculate prevalence</br>
+**HES**</br>
+Entry of N80 present in HES APC (irrespective of location in record)</br>
+**CPRD**</br>
+Entry of SNOMED CT code indicative of endometriosis present in primary care record</br>
+**CPRD or HES**</br>
+A combination of the above</br>
+**Confirmed endometriosis**</br>
+Entry of N80 in HES APC, within 90 days of laparoscopy</br>
 
 

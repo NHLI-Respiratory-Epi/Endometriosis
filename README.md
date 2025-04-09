@@ -1,15 +1,12 @@
 # Incidence, prevalence and symptom burden of endometriosis in England: A population-based cohort study #
 
-NICE Guidelines for hypertension medications
-To define hypertension using prescriptions we used the guidelines available by NICE: **https://www.nice.org.uk/guidance/ng136/resources/visual-summary-pdf-6899919517**
-
 ## Data source
 These codelists were derived from the CPRD data dictionary, reported codes are in the form of SNOMED CT.
-The data used for this analysis were derived from the records of people with an entry of ICD10 code N80 in HES.
+The data used for this analysis were derived from the records of people with an entry of ICD10 code N80 in HES.</br>
 
-CPRD: Clinical Practice Research Datalink. 
-HES: Hospital Episode Statistics
-HES APC: Hospital Episode Statistics Admitted Patient Care
+CPRD: Clinical Practice Research Datalink </br>
+HES: Hospital Episode Statistics </br>
+HES APC: Hospital Episode Statistics Admitted Patient Care </br>
 ## Definitions used to calculate incidence
 **Broad**
 First record of N80 in either the first or second place of admission in HES APC (i.e. the cause of admission was endometriosis)

@@ -1,4 +1,4 @@
-# Incidence, prevalence and symptom burden of endometriosis in England: A population-based cohort study #
+# Incidence and prevalence of endometriosis in England: A population-based cohort study #
 
 ## Data source
 These codelists were derived from the CPRD data dictionary, reported codes are in the form of SNOMED CT.
